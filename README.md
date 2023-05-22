@@ -446,6 +446,7 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+![EXP 05   2](https://github.com/arunkumarsukdevchavan/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/118343978/faf4574f-3b8a-4517-8522-01ee4d42546d)
 
 
  
